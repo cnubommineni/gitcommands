@@ -3,3 +3,5 @@ git status
 git merge
 git welcome
 git push
+
+git purge
